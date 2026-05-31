@@ -133,13 +133,13 @@ npm start
 ![Server Terminal](docs/Server%20SS.png)
 
 ### 🟢 Registration
-![Registration](docs/SS2.png)
+![Registration](docs/register.png)
 
 ### 🟢 Login
-![Login](docs/SS5.png)
+![Login](docs/login.png)
 
 ### 🟢 Available Courses
-![Available Courses](docs/SS6.png)
+![Available Courses](docs/course-list.png)
 
 ### 🟢 User Profile
 ![User Profile](docs/SS4.png)
@@ -147,8 +147,8 @@ npm start
 ### 🟢 Launch Courses
 ![Launch Courses](docs/SS3.png)
 
-### 🟢 Home Page
-![Home Page](docs/SS1.png)
+### 🟢 Dashboard
+![Dashboard](docs/dashboard.png)
 
 ## Deployment Notes
 
